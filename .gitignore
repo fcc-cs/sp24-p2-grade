@@ -1,3 +1,6 @@
+grade_*_dev.py
+grade_dev.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
